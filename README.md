@@ -1,0 +1,2 @@
+# NLP_guida_galattica_char_level
+ all'interno del notebook si esegue un NLP dsui libri di guida galattica per principianti, addestro un modello di LSTM sulle lettere di ogni parola con le fasi temporali  a generare nuove lettere ... Per motivi computazionali non e' stato possibile avere dei risultati ottimali in quanto ho deciso di non stampare le previsioni del modello, il notebook e stato creato a solo scopo di mostrare le competenze acquisite per quanto riguarda il NLP 
